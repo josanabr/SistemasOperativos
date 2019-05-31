@@ -12,7 +12,8 @@ Los siguientes son unos códigos de calentamiento que presenta como usar los arc
 
 ## cpu.c
 
-Dentro del estudio del archivo `cpu.c` se creó un archivo llamado [`cadena.c`](cadena.c) y donde se mostraban algunas características de los apuntadores en C.
+Dentro del estudio del archivo `cpu.c` se habló de los punteros. 
+Para hablar en mas detalle de los apuntadores se creó un archivo llamado [`cadena.c`](cadena.c) y donde se mostraban algunas características de los apuntadores en C.
 
 Aquí el código
 
