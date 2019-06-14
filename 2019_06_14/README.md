@@ -14,7 +14,7 @@ Para generar la libreria se ejecutan los siguientes comandos:
 
 ```
 gcc -c solucion.c
-ar rc libsolucion. solucion.o
+ar rc libsolucion.a solucion.o
 ```
 
 Para compilar su programa usand la nueva libreria:
